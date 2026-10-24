@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrejewild.github.io/youtube-discord-vless-2026/sitemap.xml
